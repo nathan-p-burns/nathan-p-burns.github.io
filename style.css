@@ -1,4 +1,8 @@
 /* Header/Logo Title */
+body {
+    margin: 0;
+}
+
 .header {
   padding: 20px;
   text-align: center;
