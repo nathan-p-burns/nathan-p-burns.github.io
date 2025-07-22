@@ -7,6 +7,10 @@
   font-size: 40px;
 }
 
+aside {
+  float: left;
+}
+
 
 .image-left {
     float: left;
