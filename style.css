@@ -9,10 +9,10 @@
   opacity: 90%;
   color: rgb(176, 234, 250);
   font-size: 35px;
-  font-family: sans-serif;
+  font-family: Garamond;
 
   a:visited { text-decoration: none; color:rgb(176, 234, 250); };
-  a:hover { text-decoration: none; color:blue; };
+  a:hover { text-decoration: none; color:rgb(176, 234, 250); };
   a:focus { text-decoration: none; color:rgb(176, 234, 250); };
   a:hover, a:active { text-decoration: none; color:rgb(176, 234, 250) } ;
 }
