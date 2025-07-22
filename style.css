@@ -15,7 +15,7 @@
   a:focus { text-decoration: none; color:rgb(176, 234, 250); };
   a:hover, a:active { text-decoration: none; color:rgb(176, 234, 250) } ;
   a:visited { text-decoration: none; color:rgb(176, 234, 250); };
-  a[href^="mailto:"] { text-decoration: none; color:rgb(176, 234, 250)}
+  a[href^="mailto:"] { text-decoration: none; color:rgb(236, 251, 255)}
 }
 
 aside {
