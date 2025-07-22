@@ -4,16 +4,15 @@
   text-align: center;
   background: #0099b4;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
 }
 
-.left_image {
+.body {
     padding: 10px;
     text-align: left;
 }
 
-.body {
-  padding: 20px;
-  text-align: right;
-  color: black
+.image-left {
+    float: left;
+    margin-right: 15px;
 }
