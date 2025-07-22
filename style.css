@@ -9,6 +9,7 @@
   opacity: 90%;
   color: rgb(193, 238, 251);
   font-size: 35px;
+  font-family: sans-serif;
 
   a:visited { text-decoration: none; color:rgb(193, 238, 251); };
   a:hover { text-decoration: none; color:blue; };
