@@ -1,9 +1,9 @@
 /* Header/Logo Title */
 .header {
-  padding: 0px;
+  padding: 20px;
   text-align: center;
   background: #0099b4;
-  width: 100%;
+  width: 150%;
   background-image:url("slmath.jpeg");
   color: white;
   font-size: 35px;
