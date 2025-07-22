@@ -9,6 +9,11 @@
   opacity: 90%;
   color: rgb(193, 238, 251);
   font-size: 35px;
+
+  a:visited { text-decoration: none; color:rgb(193, 238, 251); };
+  a:hover { text-decoration: none; color:blue; };
+  a:focus { text-decoration: none; color:rgb(193, 238, 251); };
+  a:hover, a:active { text-decoration: none; color:rgb(193, 238, 251) } ;
 }
 
 aside {
@@ -21,7 +26,3 @@ aside {
     margin-right: 10px;
 }
 
-a:visited { text-decoration: none; color:rgb(193, 238, 251); }
-a:hover { text-decoration: none; color:blue; }
-a:focus { text-decoration: none; color:rgb(193, 238, 251); }
-a:hover, a:active { text-decoration: none; color:rgb(193, 238, 251) }
