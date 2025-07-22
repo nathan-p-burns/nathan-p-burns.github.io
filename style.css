@@ -3,8 +3,9 @@
   padding: 20px;
   text-align: center;
   background: #0099b4;
-  width: 150%;
+  width: 100%;
   background-image:url("slmath.jpeg");
+  background-size: cover;
   color: white;
   font-size: 35px;
 }
