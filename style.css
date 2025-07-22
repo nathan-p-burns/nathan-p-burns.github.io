@@ -1,6 +1,8 @@
 /* Header/Logo Title */
 body {
     margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .header {
@@ -29,7 +31,7 @@ body {
   a:hover { text-decoration: none; color:rgb(59, 59, 59); };
   a:link { text-decoration: none; color:rgb(59, 59, 59); }
   a:focus { text-decoration: none; color:rgb(59, 59, 59); };
-  a:hover { text-decoration: none; color:rgb(59, 59, 59); }
+  a:hover { text-decoration: none; color:rgb(139, 139, 139); }
   a:active { text-decoration: none; color:rgb(139, 139, 139) } ;
   a:visited { text-decoration: none; color:rgb(59, 59, 59); };
   
