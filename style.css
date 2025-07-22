@@ -16,6 +16,13 @@
   a:hover, a:active { text-decoration: none; color:rgb(176, 234, 250) } ;
   a:visited { text-decoration: none; color:rgb(176, 234, 250); };
   a[href^="mailto:"] { text-decoration: none; color:rgb(236, 251, 255)}
+
+  nav.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
 }
 
 aside {
