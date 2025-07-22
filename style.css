@@ -11,11 +11,11 @@
   font-size: 35px;
   font-family: Garamond;
 
-  
   a:hover { text-decoration: none; color:rgb(176, 234, 250); };
   a:focus { text-decoration: none; color:rgb(176, 234, 250); };
   a:hover, a:active { text-decoration: none; color:rgb(176, 234, 250) } ;
   a:visited { text-decoration: none; color:rgb(176, 234, 250); };
+  a[href^="mailto:"] { text-decoration: none; color:rgb(176, 234, 250)}
 }
 
 aside {
