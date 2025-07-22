@@ -1,7 +1,7 @@
 /* Header/Logo Title */
 body {
     margin: 0;
-    max-width: 95%;
+    max-width: 98%;
     overflow-x: hidden;
 }
 
@@ -27,6 +27,7 @@ body {
   nav.transbox {
   margin: 30px;
   background-color: #ffffff;
+  color: rgb(59, 59, 59);
   opacity: 0.7;
   a:hover { text-decoration: none; color:rgb(59, 59, 59); };
   a:link { text-decoration: none; color:rgb(59, 59, 59); }
