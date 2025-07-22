@@ -1,7 +1,10 @@
 /* Header/Logo Title */
-.header {
+header {
   padding: 10px;
   text-align: center;
+  width:100%;
+  background-image:url("slmath.jpeg");
+  opacity: 0.3;
   background: #0099b4;
   color: white;
   font-size: 40px;
