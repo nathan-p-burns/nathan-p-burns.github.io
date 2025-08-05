@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    max-width: 98%;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #0099b4;
+  width: 100%;
+  background-image:url("ayres.jpeg");
+  background-size: cover;
+  opacity: 90%;
+  color: rgb(236, 251, 255);
+  font-size: 35px;
+  font-family: Garamond;
+
+  a:hover { text-decoration: none; color:black; };
+  a:focus { text-decoration: none; color:black; };
+  a:hover, a:active { text-decoration: none; color:black } ;
+  a:visited { text-decoration: none; color:black; };
+  a[href^="mailto:"] { text-decoration: none; color:rgb(236, 251, 255)}
+  a:visited[href^="mailto:"] { text-decoration: none; color:rgb(236, 251, 255)}
+
+  nav.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  color: rgb(59, 59, 59);
+  opacity: 0.7;
+  a:hover { text-decoration: none; color:rgb(59, 59, 59); };
+  a:link { text-decoration: none; color:rgb(59, 59, 59); }
+  a:focus { text-decoration: none; color:rgb(59, 59, 59); };
+  a:hover { text-decoration: none; color:rgb(139, 139, 139); }
+  a:active { text-decoration: none; color:rgb(139, 139, 139) } ;
+  a:visited { text-decoration: none; color:rgb(59, 59, 59); };
+  
+}
+}
+
+aside {
+  float: left;
+  padding: 10;
+}
+
+.image-left {
+    float: left;
+    margin-right: 10px;
+}
