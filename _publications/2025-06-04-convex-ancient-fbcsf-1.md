@@ -12,4 +12,4 @@ citation: 'Theodora Bourni, Nathan Burns and Spencer Catron (2025). &quot;Classi
 ---
 We classify the convex ancient solutions to the free boundary curve shortening flow in compact, convex domains. We do this using relatively soft methods and the classification comes in two parts:
 1. Existence: This is done by explicitly constructing an ancient solution as a limit of so called *old-but-not-ancient* solutions.
-2. Uniqueness: Once it is known that a convex ancient solution in this setting must converge backwards in time to a static chord, uniqueness may be established by demonstrating the indifference of the quantity $$\lim_{t \to -\infty}e^{-\lambda_{0}^{2}t}y(x,t)$$ on the ancient solution.
+2. Uniqueness: Once it is known that a convex ancient solution in this setting must converge backwards in time to a static chord, uniqueness may be established by demonstrating the indifference of the quantity $$\displaystyle\lim_{t \to -\infty}e^{-\lambda_{0}^{2}t}y(x,t)$$ on the ancient solution.

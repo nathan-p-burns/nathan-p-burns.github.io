@@ -10,5 +10,5 @@ paperurl: 'https://nathan-p-burns.github.io/files/stability-fbcsf.pdf'
 citation: 'Theodora Bourni, Nathan Burns and Mat Langford (2026). &quot;Stability of the Shrinking Semi-Circle under the Free Boundary Curve Shortening Flow&quot; <i>Arxiv:2603.06949</i>.'
 ---
 For a free boundary curve shortening flow in a convex domain whose maximal time of existence is finite, we prove that 
-\\[\frac{R(\Gamma_{t} - p)}{\sqrt{2(T-t)}} \to S^{1}_{+}\\],
+\\[\frac{R(\Gamma_{t} - p)}{\sqrt{2(T-t)}} \to S^{1}_{+},\\]
 at a rate no slower than $$(T-t)^{1-\delta}$$ for any $$\delta > 0$$.
