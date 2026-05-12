@@ -8,7 +8,7 @@ date: 2026-03-06
 venue: 'arXiv'
 paperurl: 'https://nathan-p-burns.github.io/files/stability-fbcsf.pdf'
 bibtexurl: 'https://nathan-p-burns.github.io/files/stability-fbcsf.bib'
-citation: 'Theodora Bourni, Nathan Burns and Mat Langford (2026). &quot;Stability of the Shrinking Semi-Circle under the Free Boundary Curve Shortening Flow&quot; <i>arXiv:2603.06949</i>.'
+citation: 'Theodora Bourni, Nathan Burns and Mat Langford (2026). &quot;Stability of the Shrinking Semi-Circle under the Free Boundary Curve Shortening Flow&quot; <i>[arXiv:2603.06949](https://arxiv.org/abs/2603.06949)</i>.'
 ---
 For a free boundary curve shortening flow in a convex domain whose maximal time of existence is finite, we prove that 
 \\[\frac{R(\Gamma_{t} - p)}{\sqrt{2(T-t)}} \to S^{1}_{+},\\]
