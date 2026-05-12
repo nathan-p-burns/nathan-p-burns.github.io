@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of my CV may be found [here](https://nathan-p-burns.github.io/files/CV_Academic)
+A pdf version of my CV may be found [here](https://nathan-p-burns.github.io/files/CV_Academic.pdf).
 
 Education
 ======
