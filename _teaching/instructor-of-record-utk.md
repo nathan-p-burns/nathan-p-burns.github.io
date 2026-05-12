@@ -5,6 +5,7 @@ type: "Instructor of Record"
 permalink: /teaching/ior-utk
 venue: "University of Tennessee"
 location: "Knoxville, TN, USA"
+date: 2022-08-01
 ---
 During my time as a graduate student at the University of Tennessee, I have been the instructor of record for numerous courses. 
 

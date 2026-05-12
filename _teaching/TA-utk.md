@@ -5,6 +5,7 @@ type: "Teaching Assistant"
 permalink: /teaching/TA-utk
 venue: "University of Tennessee"
 location: "Knoxville, TN, USA"
+date: 2021-08-01
 ---
 During my time as a graduate student at the University of Tennessee, I have been a teaching assistant for numerous courses. 
 
