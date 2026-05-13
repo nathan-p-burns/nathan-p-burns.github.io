@@ -14,3 +14,5 @@ During the Fall of 2024, I spent a month as a program associate at the SLMath fo
 My research interests lie in the subject of geometric analysis, in particular the study of geometric evolution equations, which exists in the intersection between differential geometry and partial differential equations. The focus of my research thus far has concerned itself with the so-called free boundary curve shortening flow and the ancient solutions thereof.
 
 Outside of mathematics, I enjoy hiking and, more recently, the sport of curling.
+
+![Curling at the Great Smokey Mountains Curling Club](https://nathan-p-burns.github.io/images/curling.png)
