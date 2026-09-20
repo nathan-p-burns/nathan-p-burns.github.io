@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/stability-fbcsf
 excerpt: Joint with Theodora Bourni and Mat Langford. We prove a sharp rate of convergence for free boundary curve shortening flows whose normalised flow converge to the unit semi-circle.
 date: 2026-03-06
-venue: 'arXiv'
+venue: 'Communications of Analysis and Geometry - To Appear'
 paperurl: 'https://nathan-p-burns.github.io/files/stability-fbcsf.pdf'
 bibtexurl: 'https://nathan-p-burns.github.io/files/stability-fbcsf.bib'
 citation: 'Theodora Bourni, Nathan Burns and Mat Langford (2026). &quot;Stability of the Shrinking Semi-Circle under the Free Boundary Curve Shortening Flow&quot; <i>arXiv:2603.06949</i>.'
