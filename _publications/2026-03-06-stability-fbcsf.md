@@ -1,7 +1,7 @@
 ---
 title: "Stability of the Shrinking Semi-Circle Under the Free Boundary Curve Shortening Flow"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/stability-fbcsf
 excerpt: Joint with Theodora Bourni and Mat Langford. We prove a sharp rate of convergence for free boundary curve shortening flows whose normalised flow converge to the unit semi-circle.
 date: 2026-03-06
