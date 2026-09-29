@@ -8,7 +8,7 @@ date: 2026-03-06
 venue: 'IMPA - Lecture Notes Series'
 paperurl: 'https://nathan-p-burns.github.io/files/ancient-sols-book.pdf'
 bibtexurl: 'https://nathan-p-burns.github.io/files/ancient-sols-book.bib'
-citation: 'Theodora Bourni, Nathan Burns. &quot;Ancient Solutions to Free Boundary Curve Shortening Flow.&quot; <i> Associação Instituto Nacional de Matemática Pura e Aplicada </i>
+citation: 'Theodora Bourni, Nathan Burns. &quot;Ancient Solutions to Free Boundary Curve Shortening Flow.&quot; <i> Associação Instituto Nacional de Matemática Pura e Aplicada </i>'
 ---
 This is a comprehensive reference textbook on the current state of knowledge concerning the free boundary curve shortening flow and its ancient solutions in the case of a compact free boundary.
 
