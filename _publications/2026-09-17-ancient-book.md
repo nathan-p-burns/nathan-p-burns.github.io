@@ -1,10 +1,10 @@
 ---
-title: "Stability of the Shrinking Semi-Circle Under the Free Boundary Curve Shortening Flow"
+title: "Ancient Solutions to Free Boundary Curve Shortening Flow"
 collection: publications
 category: books
 permalink: /publication/ancient-sols-fbcsf
-excerpt: Joint with Theodora Bourni.
-date: 2026-03-06
+excerpt: Joint with Theodora Bourni. This is a comprehensive reference textbook on the state of knowledge concerning the free boundary curve shortening flow in the case of a compact free boundary.
+date: 2026-09-01
 venue: 'IMPA - Lecture Notes Series'
 paperurl: 'https://nathan-p-burns.github.io/files/ancient-sols-book.pdf'
 bibtexurl: 'https://nathan-p-burns.github.io/files/ancient-sols-book.bib'
