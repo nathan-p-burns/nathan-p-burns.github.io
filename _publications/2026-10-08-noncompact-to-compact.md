@@ -10,4 +10,4 @@ paperurl: 'https://nathan-p-burns.github.io/files/noncompact-to-compact.pdf'
 bibtexurl: 'https://nathan-p-burns.github.io/files/noncompact-to-compact.bib'
 citation: 'Theodora Bourni, Nathan Burns and Marcus Flook (2026). &quot;Compact Mean Curvature Flows from Non-Compact Initial Data&quot; <i>arXiv:2610.12817</i>.'
 ---
-In a continuous coordination game, under myopic best response, players change strategies, and thus strategic communities change their shapes in time. We show that the boundaries of these strategic communities evolve according to Free Boundary Mean Curvature Flow in the continuous time limit.
+We construct compact mean curvature flows which converge at the initial time to a non-compact hypersurface. We do this by taking a limit of flows whose initial data get closer and closer to various hypersurfaces with rotational symmetry. 
