@@ -2,7 +2,7 @@
 title: "Compact Mean Curvature Flows from Non-Compact Initial Data"
 collection: publications
 category: conferences
-permalink: /publication/MBR-MCF
+permalink: /publication/noncompact-to-compact
 excerpt: Joint with Theodora Bourni and Marcus Flook. We construct examples of compact mean curvature flows which converge at the initial time to a non-compact hypersurface.
 date: 2026-10-08
 venue: 'arXiv'
